@@ -1,4 +1,4 @@
-This is part of @mesuOSU 's M-THEMES Project. Read through my project description and walkthrough here: https://tinyurl.com/alexFFTW
+<h1> This is part of @mesuOSU 's M-THEMES Project. Read through my project description and walkthrough here: https://tinyurl.com/alexFFTW </h1>
 
 (1)This model includes the lattice resistance term (tau_0) in the velocity of dislocations, currently it is set as zero, but if needed then please change the value of tau0xf term in the Cu_p.sx file, the code reads this term as the lattice resistance stress.
 (2)The elastic constants are hard coded inside the code in the init.c file. The elastic constants for Cu and Al are given as a temperature dependent term. So, whenever you want to use other metals, please change the elastic constants inside the init.c file, changing in input file won't work. (Update) Or you cn switch off the elastic constants hard coded in the init.c, then it can read from the input file.
