@@ -1,4 +1,4 @@
-<h1> SRX Mesoscale Mechanics Simulator Software. Read through my project description here: https://tinyurl.com/alexFFTW </h1>
+<h1> SRX Mesoscale Mechanics Simulator Software. Read through my project description here:
 
 ![image](https://github.com/sidereior//fftw3-smoothing-SRX/blob/main/image.jpg?raw=true)
 
